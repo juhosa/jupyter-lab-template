@@ -14,6 +14,12 @@ Then source the newly created env
 source venv/bin/activate
 ```
 
+Next, install the requirements
+
+```
+pip install -r requirements.txt
+```
+
 You're good to go. Start JupyterLab with
 
 ```
