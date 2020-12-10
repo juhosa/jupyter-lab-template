@@ -20,6 +20,8 @@ Next, install the requirements
 pip install -r requirements.txt
 ```
 
+(Note: the script `install.sh` does the previous 3 steps for you.)
+
 You're good to go. Start JupyterLab with
 
 ```
