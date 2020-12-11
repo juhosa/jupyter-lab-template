@@ -2,6 +2,16 @@
 
 ## Usage
 
+For a really quick setup run
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/juhosa/jupyter-lab-template/main/clone_and_install.sh)"
+```
+
+This will clone the this repo to the directory you run it in, run the `install.sh` script and remove the `.git` directory,
+
+For a more manual setup follow the following steps.
+
 First create a python3 virtualenv
 
 ```
